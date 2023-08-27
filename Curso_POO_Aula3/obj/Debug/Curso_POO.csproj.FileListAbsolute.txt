@@ -1,0 +1,14 @@
+C:\Users\bibif\source\repos\Curso_POO\bin\Debug\Curso_POO.exe.config
+C:\Users\bibif\source\repos\Curso_POO\bin\Debug\Curso_POO.exe
+C:\Users\bibif\source\repos\Curso_POO\bin\Debug\Curso_POO.pdb
+C:\Users\bibif\source\repos\Curso_POO\obj\Debug\Curso_POO.csproj.AssemblyReference.cache
+C:\Users\bibif\source\repos\Curso_POO\obj\Debug\Curso_POO.csproj.CoreCompileInputs.cache
+C:\Users\bibif\source\repos\Curso_POO\obj\Debug\Curso_POO.exe
+C:\Users\bibif\source\repos\Curso_POO\obj\Debug\Curso_POO.pdb
+C:\Users\bibif\source\repos\Curso_POO_Aula2\bin\Debug\Curso_POO.exe.config
+C:\Users\bibif\source\repos\Curso_POO_Aula2\bin\Debug\Curso_POO.exe
+C:\Users\bibif\source\repos\Curso_POO_Aula2\bin\Debug\Curso_POO.pdb
+C:\Users\bibif\source\repos\Curso_POO_Aula2\obj\Debug\Curso_POO.csproj.AssemblyReference.cache
+C:\Users\bibif\source\repos\Curso_POO_Aula2\obj\Debug\Curso_POO.csproj.CoreCompileInputs.cache
+C:\Users\bibif\source\repos\Curso_POO_Aula2\obj\Debug\Curso_POO.exe
+C:\Users\bibif\source\repos\Curso_POO_Aula2\obj\Debug\Curso_POO.pdb
