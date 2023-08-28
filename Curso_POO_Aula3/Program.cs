@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Curso_POO_Aula2
+namespace Curso_POO_Aula3
 {   
     //classe de inicialização
     internal class Program
