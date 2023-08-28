@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Curso_POO_Aula2
+namespace Curso_POO_Aula3
 {
     public class Conta //para conseguir chamar a classe precisa ser public
     {
