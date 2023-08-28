@@ -32,30 +32,6 @@ namespace Curso_POO_Aula4
             Console.WriteLine("O nome do cliente do agregado é: " + objetocartao.Cliente.Nome);
 
             Console.ReadKey();
-
-
-
-
-            /*//criando um objeto da classe Conta
-            Conta conta1 = new Conta(3);  //objeto 1
-
-            conta1.AdicionarLimite(1500);
-
-            conta1.Deposita(1500); //depositando valores
-            conta1.Deposita(200);
-            conta1.Sacar(600);
-
-            bool saca = conta1.Sacar(10000);
-
-            if(saca) //saca é uma variável booleana que armazena o resultado do método Sacar
-            {
-            double saldo = conta1.ConsultaSaldo(); //vai chamar o objeto e retornar o saldo
-            Console.WriteLine("Seu saldo é: " + saldo);
-            Console.WriteLine("Seu limite é: " + conta1.Limite);
-            }
-
-            Console.WriteLine("O número da conta é: " + conta1.Numero);
-            Console.ReadKey();*/
         }
     }
 }
