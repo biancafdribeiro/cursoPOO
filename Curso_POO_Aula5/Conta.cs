@@ -21,7 +21,7 @@ namespace Curso_POO_Aula4
         private double Saldo { get; set; } //get obtém o valor de uma propriedade e o retorna
         public double  Limite { get; private set; } /*set atribui o valor a uma propriedade; colocar private significa que 
                                                      apenas a classe Conta tem a liberdade de atribuir o valor através do 
-                                                     método (não é possível fazer conta.saldo = 10, por exemplo). isso se chama
+                                                     método (não é possível fazer conta.limite = 10, por exemplo). isso se chama
                                                      encapsulamento.*/
         public int Numero { get; private set; } //novamente, apenas métodos dentro da classe Conta conseguem mudar o número.
         public static int ContasCriadas { get; set; } //não vai fazer parte do objeto e sim da classe Conta por causa do static
